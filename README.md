@@ -32,7 +32,7 @@ To compile the project files, use the following command:
 This command will compile TypeScript files to JavaScript. Once the compilation is successfully completed, you can find the compiled files in the dist folder.
 
 You can customize the .env
-![](h![image](https://github.com/Oztturk/ShareX-Custom-Uploader/assets/128193690/f6552087-c9ca-4a37-a881-2b029aad2f2c))
+
 ![image](https://github.com/Oztturk/ShareX-Custom-Uploader/assets/128193690/75db4daf-b037-4259-b655-f7137e07599b)
 leave WEBHOOK blank if you don't want your captured images to be transferred to discord
 
