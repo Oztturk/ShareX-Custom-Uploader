@@ -3,7 +3,7 @@ import 'dotenv/config';
 
 import {log,RandomString} from "./functions/public";
 import post from "./routes/post";
-import uploads from "./routes/upploads";
+import uploads from "./routes/uploads";
 const app = express();
 
 app.use("/post",post);
