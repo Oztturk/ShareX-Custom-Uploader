@@ -51,10 +51,8 @@ and start the project
 
 Request url will be the url of your server
 
-body part
+body:
+secret: ``Must be the same as the secret in .env``
+PREFIX: ``change as you like``
 
-secret Must be the same as the secret in .env
-
-PREFIX: change as you like
-
-file from name: "oztturk" you can change this by examining the code.
+file from name: ``oztturk`` you can change this by examining the code.
